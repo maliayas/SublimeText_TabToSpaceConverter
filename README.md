@@ -53,6 +53,9 @@ You can install the plugin via:
 * `git clone https://github.com/maliayas/SublimeText_TabToSpaceConverter.git TabToSpaceConverter`
 * Downloading the [zip][] of the repo and extracting into `Packages/TabToSpaceConverter`
 
+The plugin is developed for Sublime Text 3 and above. It's not tested on Sublime
+Text 2; however it may still work there, so you can give it a try if you have to.
+
 ## Usage
 
 This plugin is meant to be used with a keybinding. It's not defined by default,
