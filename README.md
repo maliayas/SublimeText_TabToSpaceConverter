@@ -12,6 +12,7 @@ Batch converting is supported.
 * [The Solution](#the-solution)
 * [Installation](#installation)
 * [Usage](#usage)
+* [Similar Plugins](#similar-plugins)
 * [License](#license)
 
 ## The Problem
@@ -74,6 +75,13 @@ menu and then add a keybinding like this:
 
 You don't have to provide your current `tab_size` setting to the plugin, just set it
 in the Sublime Text and the plugin will read it.
+
+## Similar Plugins
+
+Other plugins that are similar to this one (they don't do the same task though):
+
+*   [Normalize Indentation](https://packagecontrol.io/packages/Normalize%20Indentation) ([GitHub](https://github.com/Ennosuke/Normalize-Indentation))
+*   [Indent Size](https://packagecontrol.io/packages/Indent%20Size) ([GitHub](https://github.com/socsieng/sublime-indent-size))
 
 ## License
 
