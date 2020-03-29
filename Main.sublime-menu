@@ -1,0 +1,24 @@
+[
+    {
+        "id": "preferences",
+        "children": [
+            {
+                "id": "package-settings",
+                "children": [
+                    {
+                        "caption": "Tab to Space Converter",
+                        "children": [
+                            {
+                                "caption": "README",
+                                "command": "open_file",
+                                "args": {
+                                    "file": "${packages}/TabToSpaceConverter/README.md"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
