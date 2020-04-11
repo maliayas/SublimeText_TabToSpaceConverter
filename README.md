@@ -88,7 +88,6 @@ Other plugins that are similar to this one (they don't do the same task though):
 
 ## License
 
-TabToSpaceConverter is released under the [MIT License][mit].
+TabToSpaceConverter is released under the [MIT License](LICENSE).
 
-[mit]:  http://www.opensource.org/licenses/MIT
 [zip]:  https://github.com/maliayas/SublimeText_TabToSpaceConverter/archive/master.zip
